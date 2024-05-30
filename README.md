@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manish Bagal</h1>
     <h3 align="center">full stack developer from India</h3>
-
     - 🌱 I’m currently learning **NextJS framework** - 👨‍💻 All of my projects are
     available at [manishbagal.vercel.app](manishbagal.vercel.app) - 📫 How to
     reach me **manishbagal78@gmail.com** - 📄 Know about my experiences
     [https://drive.google.com/file/d/1Sayq2Rp1CU25j7AJY_fVrDAzeUb3fw1e/view?usp=sharing](https://drive.google.com/file/d/1Sayq2Rp1CU25j7AJY_fVrDAzeUb3fw1e/view?usp=sharing)
     - ⚡ Fun fact **B in my name stands for BadMusictast thats i don't have it**
-
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a href="https://linkedin.com/in/manish-bagal-5b2887135/" target="blank"
@@ -26,7 +24,6 @@
           width="40"
       /></a>
     </p>
-
     <h3 align="left">Languages and Tools:</h3>
     <p align="left" style="display: flex; flex-wrap: wrap; gap: 20px">
       <a href="https://developer.android.com" target="_blank" rel="noreferrer">
